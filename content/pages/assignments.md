@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains instructions for both the written and oral for
+  the course, including both essays, the final paper, and presentation guidelines.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

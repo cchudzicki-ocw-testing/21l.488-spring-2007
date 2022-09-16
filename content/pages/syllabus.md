@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on course objectives, grading and assignments, attendance, and guidelines for citations.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
